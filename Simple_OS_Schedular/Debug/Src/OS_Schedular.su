@@ -1,0 +1,3 @@
+OS_Schedular.c:50:6:OS_Init	8	static
+OS_Schedular.c:82:6:TASKS_CREATION	16	static
+OS_Schedular.c:110:6:SCHEDULAR	16	static

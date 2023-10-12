@@ -1,0 +1,4 @@
+main.c:44:6:main	8	static
+main.c:77:6:RED_LED_TASK	8	static
+main.c:82:6:YELLOW_LED_TASK	8	static
+main.c:88:6:GREEN_LED_TASK	8	static

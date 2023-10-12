@@ -1,0 +1,7 @@
+"Src/GPIO_Program.o"
+"Src/OS_Schedular.o"
+"Src/RCC_Program.o"
+"Src/SERVICE_FUNCTIONS.o"
+"Src/STK_Program.o"
+"Src/main.o"
+"Startup/startup_stm32f103c8tx.o"
