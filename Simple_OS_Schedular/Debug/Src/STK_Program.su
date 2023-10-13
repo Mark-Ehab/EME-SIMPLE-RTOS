@@ -1,8 +1,8 @@
-STK_Program.c:39:6:STK_STKInit	4	static
-STK_Program.c:54:6:STK_SetBusyWait	16	static
-STK_Program.c:76:6:STK_SetIntervalSingle	16	static
-STK_Program.c:97:6:STK_SetIntervalPeriodic	16	static
-STK_Program.c:118:6:STK_StopTimer	4	static
-STK_Program.c:129:10:STK_u32GetElapsedTime	16	static
-STK_Program.c:136:10:STK_u32GetRemainingTime	16	static
-STK_Program.c:143:6:SysTick_Handler	8	static
+STK_Program.c:65:6:STK_Init	4	static
+STK_Program.c:122:16:STK_BusyWait	24	static
+STK_Program.c:180:16:STK_SetSingleInterval	24	static
+STK_Program.c:244:16:STK_SetPeriodicInterval	24	static
+STK_Program.c:298:6:STK_StopTimer	4	static
+STK_Program.c:329:16:STK_GetElapsedTime	24	static
+STK_Program.c:365:16:STK_GetRemainingTime	24	static
+STK_Program.c:396:6:SysTick_Handler	8	static

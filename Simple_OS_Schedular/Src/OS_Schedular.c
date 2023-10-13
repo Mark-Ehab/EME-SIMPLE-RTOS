@@ -50,10 +50,10 @@ Task_t Global_TasksArr[NUM_OF_TASKS];
 void OS_Init(void)
 {
 	/* Initialize STK */
-	STK_STKInit();
+	STK_Init();
 
 	/* Set the schedular to be called every 1 sec */
-	STK_SetIntervalPeriodic(1000000, SCHEDULAR);
+	STK_SetPeriodicInterval(1000000, SCHEDULAR);
 }
 
 
